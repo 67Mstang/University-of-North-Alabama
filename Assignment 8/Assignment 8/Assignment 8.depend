@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1646886864 source:/home/jamiejones/Documents/College/Computer Science/Computer Science 2/Assignment 8/Assignment 8/pets.cpp
+	<iostream>
+	<iomanip>
+	"pets.h"
+
+1646885976 /home/jamiejones/Documents/College/Computer Science/Computer Science 2/Assignment 8/Assignment 8/pets.h
+
+1646885965 source:/home/jamiejones/Documents/College/Computer Science/Computer Science 2/Assignment 8/Assignment 8/main.cpp
+	<iostream>
+	"pets.h"
+

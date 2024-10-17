@@ -1,0 +1,14 @@
+Connect 4
+2 2 6 10.97
+Sorry!
+2 4 6 20.99
+Mouse Trap
+2 4 3 17.97
+Candy Land
+2 4 3 12.99
+LIFE
+2 6 8 14.40
+Trouble
+2 4 5 9.89
+Trivial Pursuit
+2 6 15 34.10

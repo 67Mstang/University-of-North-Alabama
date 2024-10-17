@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1645513617 source:/home/jamiejones/Documents/College/Computer Science/Computer Science 2/Assignment 6/Assignment 6/main.cpp
+	<iostream>
+	"Assignment6.h"
+
+1645513678 /home/jamiejones/Documents/College/Computer Science/Computer Science 2/Assignment 6/Assignment 6/Assignment6.h
+	<iostream>
+
+1645513640 source:/home/jamiejones/Documents/College/Computer Science/Computer Science 2/Assignment 6/Assignment 6/Assignment6.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<iomanip>
+	"Assignment6.h"
+

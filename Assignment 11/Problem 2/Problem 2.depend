@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1648184733 source:/home/jamiejones/Documents/College/Computer Science/Computer Science 2/Assignment 11/Problem 2/main.cpp
+	"Stack.h"
+
+1648184586 /home/jamiejones/Documents/College/Computer Science/Computer Science 2/Assignment 11/Problem 2/Stack.h
+	<iostream>
+
+1648184595 source:/home/jamiejones/Documents/College/Computer Science/Computer Science 2/Assignment 11/Problem 2/Stack.cpp
+	"Stack.h"
+

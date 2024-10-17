@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1648088252 source:/home/jamiejones/Documents/College/Computer Science/Computer Science 2/Assignment 10/Assignment 10/Stack.cpp
+	"Stack.h"
+
+1648083918 /home/jamiejones/Documents/College/Computer Science/Computer Science 2/Assignment 10/Assignment 10/Stack.h
+	<iostream>
+
+1648088500 source:/home/jamiejones/Documents/College/Computer Science/Computer Science 2/Assignment 10/Assignment 10/StackDriver.cpp
+	<iostream>
+	"Stack.h"
+
+1648089690 source:/home/jamiejones/Documents/College/UNA/Computer Science 2/Assignment 10/Assignment 10/Stack.cpp
+	"Stack.h"
+
+1648083918 /home/jamiejones/Documents/College/UNA/Computer Science 2/Assignment 10/Assignment 10/Stack.h
+	<iostream>
+
+1648089690 source:/home/jamiejones/Documents/College/UNA/Computer Science 2/Assignment 10/Assignment 10/StackDriver.cpp
+	<iostream>
+	"Stack.h"
+

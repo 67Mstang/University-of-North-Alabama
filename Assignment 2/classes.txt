@@ -1,0 +1,21 @@
+const int MAX_PETS = 5;
+const int MAX_STUDENTS = 100;
+
+struct addressType
+{
+	string street, city, state, zipCode;
+};
+
+struct studentType
+{
+	string first, last;
+	int age;
+	double gpa;
+	string petNames[MAX_PETS];
+	addressType address;
+};
+
+main()
+{
+	studentType student[MAX_STUDENTS];
+}

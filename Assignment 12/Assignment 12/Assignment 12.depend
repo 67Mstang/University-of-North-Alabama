@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1650428515 source:/home/jamiejones/Documents/College/Computer Science/Computer Science 2/Assignment 12/Assignment 12/Customer.cpp
+	"Customer.h"
+	<ctime>
+
+1650423252 /home/jamiejones/Documents/College/Computer Science/Computer Science 2/Assignment 12/Assignment 12/Customer.h
+	<iostream>
+
+1650429791 source:/home/jamiejones/Documents/College/Computer Science/Computer Science 2/Assignment 12/Assignment 12/main.cpp
+	<iostream>
+	"unistd.h"
+	"Queue.h"
+	"Customer.h"
+
+1650426132 /home/jamiejones/Documents/College/Computer Science/Computer Science 2/Assignment 12/Assignment 12/Queue.h
+	<iostream>
+	"Customer.h"
+
+1650428515 source:/home/jamiejones/Documents/College/Computer Science/Computer Science 2/Assignment 12/Assignment 12/Queue.cpp
+	"Queue.h"
+
+1650428515 source:/home/jamiejones/Documents/College/UNA/Computer Science 2/Assignment 12/Assignment 12/Customer.cpp
+	"Customer.h"
+	<ctime>
+
+1650423252 /home/jamiejones/Documents/College/UNA/Computer Science 2/Assignment 12/Assignment 12/Customer.h
+	<iostream>
+
+1650429791 source:/home/jamiejones/Documents/College/UNA/Computer Science 2/Assignment 12/Assignment 12/main.cpp
+	<iostream>
+	"unistd.h"
+	"Queue.h"
+	"Customer.h"
+
+1650426132 /home/jamiejones/Documents/College/UNA/Computer Science 2/Assignment 12/Assignment 12/Queue.h
+	<iostream>
+	"Customer.h"
+
+1650428515 source:/home/jamiejones/Documents/College/UNA/Computer Science 2/Assignment 12/Assignment 12/Queue.cpp
+	"Queue.h"
+
